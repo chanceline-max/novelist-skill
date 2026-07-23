@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说家"
+  short_description: "原创小说策划、写作、续写、改稿与长篇记忆管理。"
+  default_prompt: "Use $novel-writing-coach as 小说家 to plan, draft, continue, revise, or diagnose an original novel while preserving pacing, character logic, and continuity."
